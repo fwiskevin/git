@@ -5,4 +5,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 Creating a new branch dev.It is very quick and simple.
 
-Back to learn git!
+Back to learn git, review those command!
