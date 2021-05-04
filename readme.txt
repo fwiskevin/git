@@ -8,8 +8,4 @@ Creating a new branch dev.It is very quick and simple.
 Back to learn git, and review those command!
 
 Creating a new branch.
-<<<<<<< HEAD
 Try to fix a conflict.
-=======
-Try to fix a conflict.
->>>>>>> dev
