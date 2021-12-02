@@ -1,5 +1,6 @@
 ## My way of learning git
-> Learn git by use it.
-1. git is a distributed version control system. And it's free!
-2. git is free software distributed under the GPL.
-3. git has a mutable index called stage.
+> 1. Learn how to learn.
+  2. Do to learn.
+- git is a distributed version control system. And it's free!
+- git is free software distributed under the GPL.
+- git has a mutable index called stage.
