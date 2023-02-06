@@ -6,3 +6,4 @@
 - git has a mutable index called stage.
 - test
 - add a new branch dev
+- dev rebase to master
